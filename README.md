@@ -8,9 +8,3 @@ I'm a Software QA, Currently work at PDKM, passionate about ensuring the quality
 #### Testing
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PXXNNAN" alt="Top Langs" style="width: 50%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PXXNNAN" alt="GitHub Stats" style="width: 35%;">
-</div>
